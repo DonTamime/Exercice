@@ -9,6 +9,9 @@ public class Classe
 {
     // variables d'instance - remplacez l'exemple qui suit par le vôtre
     private int x;
+    private String name; 
+    private int age; 
+    private String origine;
 
     /**
      * Constructeur d'objets de classe Classe
